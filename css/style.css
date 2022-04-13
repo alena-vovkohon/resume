@@ -45,7 +45,7 @@ p {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 400px;
+  width: 600px;
 }
 
 /* Projects */
@@ -92,6 +92,7 @@ h3.work__title {
 }
 .compeny {
   margin-bottom: 15px;
+  width: 600px;
 }
 h4.compeny__name {
   font-weight: 700;
